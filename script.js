@@ -56,6 +56,9 @@ const pages = [
   'page6.html',
   'page7.html',
   'page8.html',
+  'page9.html',
+  'page10.html',
+  'page11.html',
 ];
 
 // 페이지 전환 함수
@@ -127,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setRandomPosition();
 
   // 2초마다 이미지 위치를 랜덤하게 변경
-  setInterval(setRandomPosition, 1000);
+  setInterval(setRandomPosition, 1700);
 });
 
 // 클릭 이벤트 리스너 등록
