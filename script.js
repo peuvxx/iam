@@ -59,6 +59,7 @@ const pages = [
   'page9.html',
   'page10.html',
   'page11.html',
+  'page12.html',
 ];
 
 // 페이지 전환 함수
