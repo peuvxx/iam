@@ -56,11 +56,12 @@ const pages = [
   'page4.2.html',
   'page5.html',
   'page6.1.html',
-  'page6.1 copy.html',
-  'page6.2.html',
+  'page6.html',
+  'page6.1.html',
   'page7.html',
   'page8.html',
   'page9.html',
+  'page10.html',
 ];
 
 // 페이지 전환 함수
