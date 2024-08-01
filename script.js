@@ -57,7 +57,6 @@ const pages = [
   'page5.html',
   'page6.1.html',
   'page6.html',
-  'page6.1.html',
   'page7.html',
   'page8.html',
   'page9.html',
